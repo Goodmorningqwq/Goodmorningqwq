@@ -6,13 +6,10 @@
 
 ###  Student in Hong Kong, building things that ship.
 
-Most of what I make lately is **small websites for one-person studios** — a catalogue,
-an enquiry form, and an admin panel simple enough that the owner runs it herself.
-Next.js · Supabase · Vercel. Games on the side.
 
 🌸 &nbsp;Studio sites: [piano-teacher-site-demo](https://github.com/Goodmorningqwq/piano-teacher-site-demo) · [dnzrx-studio-site-demo](https://github.com/Goodmorningqwq/dnzrx-studio-site-demo)
 🎮 &nbsp;Playing now: [Emberfall](https://emberfall-alpha.vercel.app) — pixel-art action RPG
-🧭 &nbsp;Wynncraft tooling: [lootrun advisor](https://lootrun.vercel.app) · [wynnitem](https://github.com/Goodmorningqwq/wynnitem)
+🧭 &nbsp;Wynncraft tooling: [lootrun advisor](https://lootrun.vercel.app) · [wynnitem](https://github.com/Goodmorningqwq/wynnitem) 
 
 <img src="https://komarev.com/ghpvc/?username=Goodmorningqwq&style=for-the-badge&color=6b8e5a&label=PROFILE+VISITS" alt="profile visits" />
 
