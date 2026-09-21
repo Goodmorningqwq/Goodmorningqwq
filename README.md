@@ -4,7 +4,7 @@
 <tr>
 <td width="58%" valign="top">
 
-###  Student in Hong Kong, building things that ship.
+### Student in Hong Kong, building things that ship.
 
 
 🌸 &nbsp;Studio sites: [piano-teacher-site-demo](https://github.com/Goodmorningqwq/piano-teacher-site-demo) · [dnzrx-studio-site-demo](https://github.com/Goodmorningqwq/dnzrx-studio-site-demo)
