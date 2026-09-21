@@ -4,12 +4,12 @@
 <tr>
 <td width="58%" valign="top">
 
-### Student in Hong Kong, building things that ship.
+### University student in Hong Kong
 
 
 
 
-<img src="https://komarev.com/ghpvc/?username=Goodmorningqwq&style=for-the-badge&color=6b8e5a&label=PROFILE+VISITS" alt="profile visits" />
+
 
 </td>
 <td width="42%" valign="top">
