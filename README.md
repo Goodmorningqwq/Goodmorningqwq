@@ -10,7 +10,7 @@ Most of what I make lately is **small websites for one-person studios** — a ca
 an enquiry form, and an admin panel simple enough that the owner runs it herself.
 Next.js · Supabase · Vercel. Games on the side.
 
-🌸 &nbsp;Studio sites: [piano-teacher-site](https://github.com/Goodmorningqwq/piano-teacher-site) · [dnzrx-studio-site](https://github.com/Goodmorningqwq/dnzrx-studio-site)
+🌸 &nbsp;Studio sites: [piano-teacher-site-demo](https://github.com/Goodmorningqwq/piano-teacher-site-demo) · [dnzrx-studio-site-demo](https://github.com/Goodmorningqwq/dnzrx-studio-site-demo)
 🎮 &nbsp;Playing now: [Emberfall](https://emberfall-alpha.vercel.app) — pixel-art action RPG
 🧭 &nbsp;Wynncraft tooling: [lootrun advisor](https://lootrun.vercel.app) · [wynnitem](https://github.com/Goodmorningqwq/wynnitem)
 
@@ -43,8 +43,8 @@ Next.js · Supabase · Vercel. Games on the side.
 
 | | |
 |---|---|
-| [**piano-teacher-site**](https://github.com/Goodmorningqwq/piano-teacher-site) | Bilingual 繁中/EN site for a HK piano teacher, with an `/admin` she edits herself. [Live →](https://piano-website-flax.vercel.app) |
-| [**dnzrx-studio-site**](https://github.com/Goodmorningqwq/dnzrx-studio-site) | Commission site for a mixing & mastering studio. |
+| [**piano-teacher-site-demo**](https://github.com/Goodmorningqwq/piano-teacher-site-demo) | Bilingual 繁中/EN site for a HK piano teacher, with an `/admin` she edits herself. [Live →](https://piano-website-flax.vercel.app) |
+| [**dnzrx-studio-site-demo**](https://github.com/Goodmorningqwq/dnzrx-studio-site-demo) | Commission site for a mixing & mastering studio. |
 | [**emberfall**](https://github.com/Goodmorningqwq/emberfall) | Pixel-art action RPG. Phaser 4 · React · TypeScript. [Play →](https://emberfall-alpha.vercel.app) |
 | [**wynncraft-lootrun-advisor**](https://github.com/Goodmorningqwq/wynncraft-lootrun-advisor) | Tell it the beacons you're offered; it ranks them for your run. [Live →](https://lootrun.vercel.app) |
 | [**skyblock-bazaar-oracle**](https://github.com/Goodmorningqwq/skyblock-bazaar-oracle) | Hypixel Bazaar price tracker with Prophet forecasting and trade signals. [Live →](https://bazzar-two.vercel.app) |
