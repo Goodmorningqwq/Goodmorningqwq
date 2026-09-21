@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="168" viewBox="0 0 420 168" role="img" aria-label="Most used languages">
+<style>
+  .title{font:600 16px 'Segoe UI',Ubuntu,Sans-Serif;fill:#70a5fd}
+  .lang{font:400 12px 'Segoe UI',Ubuntu,Sans-Serif;fill:#38bdae}
+  .pct{font:400 12px 'Segoe UI',Ubuntu,Sans-Serif;fill:#a9b1d6}
+</style>
+<rect width="420" height="168" rx="6" fill="#1a1b27"/>
+<text x="22" y="34" class="title">Most Used Languages</text>
+<clipPath id="bar"><rect x="22" y="58" width="376" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)"><rect x="22.0" y="58" width="279.2" height="8" fill="#3178c6"/><rect x="301.2" y="58" width="66.9" height="8" fill="#f1e05a"/><rect x="368.1" y="58" width="26.8" height="8" fill="#3572A5"/><rect x="394.9" y="58" width="2.6" height="8" fill="#336790"/><rect x="397.5" y="58" width="1.0" height="8" fill="#89e051"/></g>
+<circle cx="27.0" cy="88" r="5" fill="#3178c6"/><text x="40.0" y="92" class="lang">TypeScript</text><text x="194.0" y="92" class="pct" text-anchor="end">74.2%</text><circle cx="215.0" cy="88" r="5" fill="#f1e05a"/><text x="228.0" y="92" class="lang">JavaScript</text><text x="382.0" y="92" class="pct" text-anchor="end">17.8%</text><circle cx="27.0" cy="112" r="5" fill="#3572A5"/><text x="40.0" y="116" class="lang">Python</text><text x="194.0" y="116" class="pct" text-anchor="end">7.1%</text><circle cx="215.0" cy="112" r="5" fill="#336790"/><text x="228.0" y="116" class="lang">PLpgSQL</text><text x="382.0" y="116" class="pct" text-anchor="end">0.7%</text><circle cx="27.0" cy="136" r="5" fill="#89e051"/><text x="40.0" y="140" class="lang">Shell</text><text x="194.0" y="140" class="pct" text-anchor="end">0.1%</text>
+</svg>
