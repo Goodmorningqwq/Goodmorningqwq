@@ -4,7 +4,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### CS student in Hong Kong, building things that ship.
+###  Student in Hong Kong, building things that ship.
 
 Most of what I make lately is **small websites for one-person studios** — a catalogue,
 an enquiry form, and an admin panel simple enough that the owner runs it herself.
